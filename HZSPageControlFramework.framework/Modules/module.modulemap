@@ -1,0 +1,6 @@
+framework module HZSPageControlFramework {
+  umbrella header "HZSPageControlFramework.h"
+
+  export *
+  module * { export * }
+}

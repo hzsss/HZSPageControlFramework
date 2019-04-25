@@ -1,5 +1,5 @@
 :Pod::Spec.new do |s|
-    s.name         = "HZSPageControlFramework"
+    s.name         = "HZSPageControl"
     s.version      = "1.0.0"
     s.ios.deployment_target = '9.0'
     s.summary      = "一个简单的有过渡动画的PageControl"
@@ -10,6 +10,6 @@
     #s.source_files  = "HZSPageControl/*"
     s.resources          = ""
     s.frameworks = 'Foundation', 'UIKit'
-    s.vendored_frameworks = 'HZSPageControl.framework'
+    s.vendored_frameworks = 'HZSPageControlFramework.framework'
     s.requires_arc = true
 end
