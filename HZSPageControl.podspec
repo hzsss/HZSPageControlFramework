@@ -1,5 +1,5 @@
 :Pod::Spec.new do |s|
-    s.name         = "HZSPageControl"
+    s.name         = "HZSPageControlFramework"
     s.version      = "1.0.0"
     s.ios.deployment_target = '9.0'
     s.summary      = "一个简单的有过渡动画的PageControl"
